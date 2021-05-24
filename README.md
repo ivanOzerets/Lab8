@@ -1,5 +1,11 @@
 # Lab8_Starter
 
+## Lab Partners:
+
+Ivan Ozerets
+
+Thanh Huy Le
+
 ## Check your understanding q's (FILL OUT)
 1. In your own words: Where would you fit your automated tests in your Bujo project development pipeline? (just write the letter) 
 
