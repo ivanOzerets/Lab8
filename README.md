@@ -21,6 +21,6 @@
 
     A:
   
-    await page.goto('http://127.0.0.1:5500');
-    await page.click('img');
-    await page.waitForTimeout(500);
+        await page.goto('http://127.0.0.1:5500');
+        await page.click('img');
+        await page.waitForTimeout(500);
