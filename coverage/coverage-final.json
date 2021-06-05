@@ -1,0 +1,2 @@
+{"C:\\Users\\ivano\\UCSD\\Spring2021\\CSE110\\Labs\\Lab8\\scripts\\sum.js": {"path":"C:\\Users\\ivano\\UCSD\\Spring2021\\CSE110\\Labs\\Lab8\\scripts\\sum.js","statementMap":{"0":{"start":{"line":2,"column":2},"end":{"line":2,"column":15}}},"fnMap":{"0":{"name":"sum","decl":{"start":{"line":1,"column":16},"end":{"line":1,"column":19}},"loc":{"start":{"line":1,"column":26},"end":{"line":3,"column":1}},"line":1}},"branchMap":{},"s":{"0":1},"f":{"0":1},"b":{},"_coverageSchema":"1a1c01bbd47fc00a2c39e90264f33305004495a9","hash":"b6f32806c75b2520555aa86c6a1b2112f4b715c3"}
+}
